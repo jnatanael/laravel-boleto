@@ -1,16 +1,16 @@
 {
-    "name": "eduardokum/laravel-boleto",
-    "description": "Biblioteca com boletos para o laravel",
+    "name": "jnatanael/laravel-boleto",
+    "description": "Fork da Biblioteca para gerar boletos com laravel",
     "keywords": [
-        "eduardokum",
+        "jnatanel",
         "laravel-boleto"
     ],
-    "homepage": "https://github.com/eduardokum/laravel-boleto",
+    "homepage": "https://github.com/jnatanael/laravel-boleto",
     "license": "MIT",
     "authors": [
         {
-            "name": "Eduardo Gusmão",
-            "email": "eduguscontra3@hotmail.com"
+            "name": "José Natanael Reis",
+            "email": "contato@josenatanael.com.br"
         }
     ],
     "require": {
@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Eduardokum\\LaravelBoleto\\": "src"
+            "Jnatanael\\LaravelBoleto\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Eduardokum\\LaravelBoleto\\Tests\\": "tests"
+            "Jnatanael\\LaravelBoleto\\Tests\\": "tests"
         }
     }
 }
